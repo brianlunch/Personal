@@ -14,8 +14,8 @@ class CardItemEx extends Component {
         return (
             
             <div className={this.props.style}>
-            <a target="_blank" href={this.props.link}>
-                        <div class="card-body text-center" >
+            <a onClick={this.changeColour} target="_blank" href={this.props.link}>
+                        <div onClick={this.changeColour} class="card-body text-center" >
                             <h3 class="card-title">{this.props.title1}</h3>
                             <h3 class="card-title">{this.props.title2}</h3>
                                 {a=="faGithub"? <h3><FontAwesomeIcon icon={faGithub}/></h3> : null}

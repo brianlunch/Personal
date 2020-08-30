@@ -59,9 +59,9 @@ class NavbarLocal extends Component {
 
             <Nav.Link
               as={Link}
-              to="/about-me"
+              to="/contact"
               className={
-                activePage.endsWith('/feed') ? 'nav-link--active' : 'nav-link'
+                activePage.endsWith('/contact') ? 'nav-link--active' : 'nav-link'
               }
             >
               Contact Me

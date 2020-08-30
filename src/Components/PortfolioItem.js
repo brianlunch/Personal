@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import CVwebsite from '../CVwebsite.gif'
 import SocialCipher from '../SocialCipher.gif'
 import TCDexams from '../TCDexams.gif'
+import emenu from '../emenu.gif'
 import Question from '../Question.png'
 import Wikidata from '../Wikidata.gif'
 //This class takes in a title and a description and displays them as shown on the homepage
@@ -19,6 +20,7 @@ class PortfolioItem extends Component {
                 <h2 className={this.props.style}>{this.props.title}</h2>
                 <p>{this.props.subtitle}</p>
                 {this.props.title == "Personal CV sites"?<img className="gif" src={CVwebsite}/>:null}
+                {this.props.title == "e-menu"?<img className="gif" src={emenu}/>:null}
                 {this.props.title == "Social Cipher"?<img className="gif" src={SocialCipher}/>:null}
                 {this.props.title == "TCDexams"?<img className="gif" src={TCDexams}/>:null}
                 {this.props.title == "Wikidata Live"?<img className="gif" src={Wikidata}/>:null}
