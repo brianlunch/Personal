@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Personal/static/css/main.54a13178.chunk.css",
-    "main.js": "/Personal/static/js/main.98f8d426.chunk.js",
-    "main.js.map": "/Personal/static/js/main.98f8d426.chunk.js.map",
+    "main.css": "/Personal/static/css/main.88c8f82b.chunk.css",
+    "main.js": "/Personal/static/js/main.24a2a1b1.chunk.js",
+    "main.js.map": "/Personal/static/js/main.24a2a1b1.chunk.js.map",
     "runtime-main.js": "/Personal/static/js/runtime-main.d826271c.js",
     "runtime-main.js.map": "/Personal/static/js/runtime-main.d826271c.js.map",
     "static/css/2.69121389.chunk.css": "/Personal/static/css/2.69121389.chunk.css",
-    "static/js/2.600d0045.chunk.js": "/Personal/static/js/2.600d0045.chunk.js",
-    "static/js/2.600d0045.chunk.js.map": "/Personal/static/js/2.600d0045.chunk.js.map",
+    "static/js/2.901fc180.chunk.js": "/Personal/static/js/2.901fc180.chunk.js",
+    "static/js/2.901fc180.chunk.js.map": "/Personal/static/js/2.901fc180.chunk.js.map",
     "index.html": "/Personal/index.html",
-    "precache-manifest.e0eeecd11027a7ca7e3061b269887e1c.js": "/Personal/precache-manifest.e0eeecd11027a7ca7e3061b269887e1c.js",
+    "precache-manifest.4772d988845006447cbe62e94efda9f0.js": "/Personal/precache-manifest.4772d988845006447cbe62e94efda9f0.js",
     "service-worker.js": "/Personal/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/Personal/static/css/2.69121389.chunk.css.map",
-    "static/css/main.54a13178.chunk.css.map": "/Personal/static/css/main.54a13178.chunk.css.map",
-    "static/js/2.600d0045.chunk.js.LICENSE.txt": "/Personal/static/js/2.600d0045.chunk.js.LICENSE.txt",
+    "static/css/main.88c8f82b.chunk.css.map": "/Personal/static/css/main.88c8f82b.chunk.css.map",
+    "static/js/2.901fc180.chunk.js.LICENSE.txt": "/Personal/static/js/2.901fc180.chunk.js.LICENSE.txt",
+    "static/media/Wikidata.gif": "/Personal/static/media/Wikidata.00279be6.gif",
     "static/media/cv.jpg": "/Personal/static/media/cv.73e23336.jpg",
     "static/media/cv.pdf": "/Personal/static/media/cv.9eb30fb5.pdf",
     "static/media/emenu.gif": "/Personal/static/media/emenu.c0e87be9.gif"
@@ -21,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.d826271c.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.600d0045.chunk.js",
-    "static/css/main.54a13178.chunk.css",
-    "static/js/main.98f8d426.chunk.js"
+    "static/js/2.901fc180.chunk.js",
+    "static/css/main.88c8f82b.chunk.css",
+    "static/js/main.24a2a1b1.chunk.js"
   ]
 }
