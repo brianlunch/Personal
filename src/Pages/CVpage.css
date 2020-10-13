@@ -1,0 +1,9 @@
+.cvPage{
+    min-height: 100vh;
+    padding-top: 10%;
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}

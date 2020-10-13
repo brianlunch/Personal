@@ -1,0 +1,13 @@
+.Header{
+    margin-top:5%;
+}
+
+.socials{
+    font-size:2.2rem;
+    padding:2%;
+    color:black;
+}
+
+.socials:hover{
+    color: #71c7c5;
+}

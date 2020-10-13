@@ -1,0 +1,24 @@
+.btnStyle{
+    background-color: transparent;
+    color:white;
+    font-size: 1.6rem;
+    border-width: 3px;
+    border-radius: 30px;
+    padding: 1%;
+    width: 100%;
+}
+
+.btnStyle2{
+    background-color: transparent;
+    color:#71c7c5;
+    font-size: 1.6rem;
+    border-width: 3px;
+    border-radius: 30px;
+    
+    border-color:#71c7c5 ;
+    width: 30%;
+}
+
+.btnStyle2:hover{
+    background-color: #71c7c5;
+}

@@ -1,0 +1,36 @@
+.carousel-indicators .active{
+    background-color: #ffffff;
+}
+.carousel-indicators{
+    background-color: #71c7c5;
+    color: #ffffff;
+    position: static;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 20px;
+}
+
+.carousel-control-next{
+    color:black;
+}
+
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #71c7c5;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #71c7c5;
+}
+
+.carousel-control-prev {
+    left: -10px;
+}
+
+.carousel-control-next, .carousel-control-prev{width:1%;}
