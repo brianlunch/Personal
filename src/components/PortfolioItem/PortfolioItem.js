@@ -5,17 +5,22 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './PortfolioItem.css'
 import Portfolio from '../Portfolio/Portfolio'
 
-const PortfolioItem = ({title, description, video}) => {
+const PortfolioItem = ({title, description, video, link}) => {
+
+
+
+
     return(
         
             <div className="item" id="portfolioItem">
      <div className="row text-left">
          <div className="col-lg-6 col-md-6 col-sm-12 col-12">
-         <h2>{title}</h2>
-         <p>{description}</p>
+         <a target="_blank" href={link}><h2>{title}</h2></a>
+         <p className="displayBreak">{description}</p>
+         
          </div>
-         <div className="col-lg-6 col-md-6 col-sm-12col-12">
-         <img className="gif" src={video}/>
+         <div className="col-lg-6 col-md-6 col-sm-12col-12 imgCol">
+         <a target="_blank" href={link}><img className="gif" src={video}/></a>
          </div>
     
     </div>           
